@@ -1,0 +1,2 @@
+FLASK_APP=rastreador_de_alimentos
+FLASK_ENV=development
